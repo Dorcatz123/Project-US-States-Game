@@ -30,3 +30,25 @@ This game is the best to sharpen your memeory skills. Play it, customize it as y
 
 This game is entirely built on python. It showcases a classical game development capabilities of the python libraries such as the turtle module. This project is a perfect example of showcasing basic python coding skills to built an amazing game for fun or for educational purpose!
 
+
+
+
+
+
+
+![game_play](https://github.com/Dorcatz123/US-States-Game/assets/120886051/0879fcfa-3175-4d2e-8bc3-06218f566965)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
