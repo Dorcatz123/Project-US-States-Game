@@ -2,7 +2,7 @@ Title:************* US-States-Game****************************
 
 **Description:
 
-This is a mini project using python programming language to create a US states guessing game. This game is similar to a standard guessing game where you are shown an image and you win if you guess the image correctly else you fail!. Here the image that is being used is the map of the United states of America. The goal is to guess all the 50 states correctly.
+This is a mini project using python programming language to create a US states guessing game. This game is similar to a standard guessing game where you are shown an image and you win if you guess the image correctly else you fail!. Here the image is the map of the United states of America. The goal is to guess all the 50 states correctly.
 
 
 **Gameplay:
@@ -20,7 +20,7 @@ The code has a way to keep track of your previous scores which will be displayed
 
 **Customization:
 
-You can customize this project by using a different image ( probably of a different country!) by updating the blank_states_img.gif file. You also have to use the get coordinates.py file to collect the coordinates of the states in the new image that you use. For this, run the coordinates.py file and click on each and every state in the image of your choosen country. This will automatically collect the coordinates in the new_coordinates list object in the coordinates.py file. Now use this list to update the 50_states.csv file (of course this is a bit taxing but it can definitely be done! also you need to change 50_states name because now the number will be different.)
+You can customize this project by using a different image ( probably of a different country!) by updating the blank_states_img.gif file. You also have to use the get coordinates.py file to collect the coordinates of the states in the new image that you use. For this, run the coordinates.py file and click on each and every state in the image of your choosen country. This will automatically collect the coordinates in the new_coordinates list object in the coordinates.py file. Now use this list to update the 50_states.csv file (of course this is a bit taxing but it can definitely be done! also you need to change 50_states name because now the number will be different and also you need to update the states as well!.)
 
 
 **Challenges: 
