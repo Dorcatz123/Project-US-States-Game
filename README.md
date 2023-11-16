@@ -5,6 +5,9 @@ Title:************* US-States-Game****************************
 This is a mini project using python programming language to create a US states guessing game. This game is similar to a standard guessing game where you are shown an image and you win if you guess the image correctly else you fail!. Here the image is the map of the United states of America. The goal is to guess all the 50 states correctly.
 
 
+
+![game_play](https://github.com/Dorcatz123/US-States-Game/assets/120886051/0879fcfa-3175-4d2e-8bc3-06218f566965)
+
 **Gameplay:
  
 This game is built with a perfect user interface where you guess a state by inputting the name in textinput prompt of the screen method in the turtle module. 
@@ -36,7 +39,7 @@ This game is entirely built on python. It showcases a classical game development
 
 
 
-![game_play](https://github.com/Dorcatz123/US-States-Game/assets/120886051/0879fcfa-3175-4d2e-8bc3-06218f566965)
+
 
 
 
